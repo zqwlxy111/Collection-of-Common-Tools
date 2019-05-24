@@ -1,0 +1,294 @@
+{
+	"ext_font": {
+		"message": "'Segoe UI', Tahoma, sans-serif"
+	},
+	
+	"manifest_description": {
+		"message": "Простое всплывающее окно, чтобы вернуть закрытые вкладки."
+	},
+	
+	"manifest_toolbarbtn_tooltip": {
+		"message": "Вернуть закрытые вкладки"
+	},
+	
+	"popup_clrbtn_tooltip": {
+		"message": "Очистить историю вкладок"
+	},
+	
+	"popup_search_tooltip": {
+		"message": "Введите ключевое слово для поиска"
+	},
+	
+	"popup_delbtn_tooltip": {
+		"message": "Удалить найденные вкладки"
+	},
+	
+	"popup_prvbtn_tooltip": {
+		"message": "Предыдущая страница"
+	},
+	
+	"popup_nxtbtn_tooltip": {
+		"message": "Следующая страница"
+	},
+	
+	"popup_clrbtn": {
+		"message": "Очистить"
+	},
+	
+	"popup_delbtn": {
+		"message": "Удалить"
+	},
+	
+	"popup_noTabsMsg": {
+		"message": "<center>Нет закрытых вкладок</center>"
+	},
+	
+	"popup_noSearchResult": {
+		"message": "Вкладок, содержащих поисковой запрос, не найдено"
+	},
+	
+	"html_topbtn_tooltip1": {
+		"message": "Настройки"
+	},
+	
+	"html_topbtn_tooltip2": {
+		"message": "Благодарности и изменения"
+	},
+	
+	"html_topbtn_tooltip3": {
+		"message": "Информация"
+	},
+	
+	"opt_looks_title": {
+		"message": "Вид"
+	},
+	
+	"opt_looks_opt1": {
+		"message": "Показывать счетчик закрытых вкладок на иконке панели приложений"
+	},
+	
+	"opt_looks_opt2": {
+		"message": "Отображать строку поиска и кнопки сверху"
+	},
+	
+	"opt_looks_opt3": {
+		"message": "Отображать строку поиска"
+	},
+	
+	"opt_looks_opt4": {
+		"message": "Отбражать кнопку 'Очистить'"
+	},
+	
+	"opt_looks_opt5": {
+		"message": "Отображать время"
+	},
+	
+	"opt_looks_opt6": {
+		"message": "Жирный шрифт"
+	},
+	
+	"opt_looks_opt7": {
+		"message": "Показать заголовок страницы вместо URL в подсказках"
+	},
+	
+	"opt_looks_opt8": {
+		"message": "Использовать альтернативную иконку в панели приложений"
+	},
+	
+	"opt_looks_opt9": {
+		"message": "Отобразить время справа"
+	},
+	
+	"opt_looks_opt10": {
+	"message": "Ширина всплывающего окна :"
+	},
+	 
+	"opt_func_title": {
+		"message": "Функциональность"
+	},
+	
+	"opt_func_opt1": {
+		"message": "Поиск по ключевым словам в:"
+	},
+	
+	"opt_func_opt1_tooltip": {
+		"message": "Влияет на результат поиска во всплывающем окне."
+	},
+	
+	"opt_func_opt2": {
+		"message": "только заголовки вкладок"
+	},
+	
+	"opt_func_opt3": {
+		"message": "только URL"
+	},
+	
+	"opt_func_opt4": {
+		"message": "заголовки вкладок и URL"
+	},
+	
+	"opt_func_opt5": {
+		"message": "Включить пользовательские горячие клавиши"
+	},
+	
+	"opt_func_opt5_tooltip": {
+		"message": "Горячие клавиши работают только на обычных страницах. В настройках браузера и Интернет-магазине Chrome - не работают."
+	},
+	
+	"opt_func_opt6": {
+		"message": "Отключить двойное нажатие"
+	},
+	
+	"opt_func_opt6b": {
+		"message": "Отключить тройной нажатие"
+	},
+	
+	"opt_func_opt7": {
+		"message": "Сохранять закрытые вкладки после завершения работы браузер."
+	},
+	
+	"opt_func_opt8": {
+		"message": "Количество закрытых вкладок :"
+	},
+	
+	"opt_func_opt9": {
+		"message": "Количество закрытых вкладок, отображающихся на странице :"
+	},
+	
+	"opt_func_opt10": {
+		"message": "Количество строк текста, отображающихся для каждой вкладки :"
+	},
+	
+	"opt_resetbtn": {
+		"message": "Очистить сохраненные вкладки?"
+	},
+	
+	"opt_resetbtn_popupMsg": {
+		"message": "Очистить сохраненные вкладки?"
+	},
+	
+	"opt_blogbtn_tooltip": {
+		"message": "Домашняя страница"
+	},
+	
+	"cred_title": {
+		"message": "Благодарность"
+	},
+	
+	"cred_line1": {
+		"message": "Благодарность расширению <a href=\"https://chrome.google.com/webstore/detail/bcennaiejdjpomgmmohhpgnjlmpcjmbg\">Sexy Undo Close Tab</a> , так как SimpleUndoClose это ответвление от него."
+	},
+	
+	"cred_line2": {
+		"message": "Кроме того, благодарность расширению Undo Close tab,  которое тоже является ответвлением Sexy Undo Close Tab."
+	},
+	
+	"cred_line3": {
+		"message": "Также спасибо всем другим расширениям, форком которых может быть Undo Close tab  :)"
+	},
+	
+	"cred_line4": {
+		"message": "Дополнительная благодарность для <a href=\"https://developer.android.com/design/index.html\">Android Design</a> за 3 значка, расположенные в правом верхнем углу страницы."
+	},
+	
+	"cLog_title": {
+		"message": "Изменения"
+	},
+	
+	"tips_title": {
+		"message": "Советы по использованию"
+	},
+	
+	"tips_tip1": {
+		"message": "Горячие клавиши для восстанавления последней закрытой вкладки"
+	},
+	
+	"tips_tip1_line1": {
+		"message": "КАК: Убедитесь что опция включена, затем нажмите комбинацию горячих клавиш"
+	},
+	
+	"tips_tip1_line2": {
+		"message": "ПРИМЕЧАНИЕ: Не работает на системных страницах браузер"
+	},
+	
+	"tips_tip2": {
+		"message": "Двойное нажатие на иконке для восстановления последней закрытой вкладки"
+	},
+	
+	"tips_tip2_line1": {
+		"message": "КАК: Убедитесь в том, что флажок не установлен, затем дважды щелкните на иконку на панели приложений"
+	},
+	
+	"tips_tip2_line2": {
+		"message": "ПРИМЕЧАНИЕ: Возможно понадобится время для второго нажатия"
+	},
+	
+	"tips_tip3": {
+		"message": "Навигация с помощью клавиатуры во всплывающем окне"
+	},
+	
+	"tips_tip3_line1": {
+		"message": "КАК: Открыть всплывающее окно, затем использовать клавиши со стрелками для навигации"
+	},
+	
+	"tips_tip3_line2": {
+		"message": "КЛАВИШИ: Вправо, Влево = Предыдущая, Следующая страница; Вверх, Вниз = Выбор закрытой вкладки; Enter = Восстановить вкладку"
+	},
+	
+	"tips_tip4": {
+		"message": "Связать быстрые клавиши с расширением"
+	},
+	
+	"tips_tip4_line1": {
+		"message": "КАК: Открыть страницу расширений браузер, перейти в конец страницы и нажать на \"Быстрые клавиши\""
+	},
+	
+	"perm_title": {
+		"message": "Запрашиваемые разрешения"
+	},
+	
+	"perm_text1": {
+		"message": "как указано SimpleUndoClose получает доступ к:"
+	},
+	
+	"perm_reason1a": {
+		"message": "Вашим данным на всех веб-сайтах"
+	},
+	
+	"perm_reason1b": {
+		"message": "ПОЧЕМУ: Это сделано для облегчения работы скрипта, который разрешает функции отменения закрытия вкладок по Ctrl+Z"
+	},
+	
+	"perm_reason2a": {
+		"message": "Вкладкам и журналу посещений"
+	},
+	
+	"perm_reason2b": {
+		"message": "ПОЧЕМУ: Требуется для использования API chrome.tabs, выявления статуса вкладки и получения информации"
+	},
+	
+	"perm_text2": {
+		"message": "Вы можете узнать больше о разрешениях <a href=\"http://developer.chrome.com/extensions/permission_warnings.html#warnings\">здесь</a>"
+	},
+	
+	"feed_title": {
+		"message": "Обратная связь"
+	},
+	
+	"feed_text1": {
+		"message": "Не стесняйтесь оставлять сообщения об ошибках, предложениях и вопросах."
+	},
+	
+	"feed_text2": {
+		"message": "обратная связь здесь!"
+	},
+	
+	"other_title": {
+		"message": "Другие работы"
+	},
+	
+	"other_text1": {
+		"message": "Откройте мою DeviantArt страницу, чтобы увидеть другие мои работы!"
+	}
+	
+}

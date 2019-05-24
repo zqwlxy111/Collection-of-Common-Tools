@@ -1,0 +1,294 @@
+{
+	"ext_font": {
+		"message": "'Segoe UI', Arial, 'Microsoft Yahei', Simsun, sans-serif"
+	},
+	
+	"manifest_description": {
+		"message": "簡單地快顯視窗，讓您輕鬆地還原已關閉的分頁。"
+	},
+	
+	"manifest_toolbarbtn_tooltip": {
+		"message": "還原已關閉分頁"
+	},
+	
+	"popup_clrbtn_tooltip": {
+		"message": "清除分頁歷史"
+	},
+	
+	"popup_search_tooltip": {
+		"message": "輸入欲搜尋關鍵字"
+	},
+	
+	"popup_delbtn_tooltip": {
+		"message": "刪除已找到的分頁"
+	},
+	
+	"popup_prvbtn_tooltip": {
+		"message": "上一頁"
+	},
+	
+	"popup_nxtbtn_tooltip": {
+		"message": "下一頁"
+	},
+	
+	"popup_clrbtn": {
+		"message": "清除"
+	},
+	
+	"popup_delbtn": {
+		"message": "刪除"
+	},
+	
+	"popup_noTabsMsg": {
+		"message": "<center>沒有已關閉的分頁</center>"
+	},
+	
+	"popup_noSearchResult": {
+		"message": "未找到已關閉分頁中含有"
+	},
+	
+	"html_topbtn_tooltip1": {
+		"message": "設定"
+	},
+	
+	"html_topbtn_tooltip2": {
+		"message": "致謝與更新記錄"
+	},
+	
+	"html_topbtn_tooltip3": {
+		"message": "資訊"
+	},
+	
+	"opt_looks_title": {
+		"message": "外觀"
+	},
+	
+	"opt_looks_opt1": {
+		"message": "顯示已關閉的分頁數量至工作列圖示"
+	},
+	
+	"opt_looks_opt2": {
+		"message": "搜尋列與按鈕置於最上層"
+	},
+	
+	"opt_looks_opt3": {
+		"message": "顯示搜尋列"
+	},
+	
+	"opt_looks_opt4": {
+		"message": "顯示「清除」按鈕"
+	},
+	
+	"opt_looks_opt5": {
+		"message": "顯示時間"
+	},
+	
+	"opt_looks_opt6": {
+		"message": "粗體文字"
+	},
+	
+	"opt_looks_opt7": {
+		"message": "顯示頁面標題而不顯示網址於工具提示"
+	},
+	
+	"opt_looks_opt8": {
+		"message": "使用另一個工具列按鈕圖示"
+	},
+	
+	"opt_looks_opt9": {
+		"message": "把時間移到右端"
+	},
+	
+	"opt_looks_opt10": {
+	"message": "彈出的寬度："
+	},
+	 
+	"opt_func_title": {
+		"message": "功能"
+	},
+	
+	"opt_func_opt1": {
+		"message": "搜尋關鍵字："
+	},
+	
+	"opt_func_opt1_tooltip": {
+		"message": "影響快顯視窗中搜尋列的搜尋結果。"
+	},
+	
+	"opt_func_opt2": {
+		"message": "僅分頁標題"
+	},
+	
+	"opt_func_opt3": {
+		"message": "僅分頁網址"
+	},
+	
+	"opt_func_opt4": {
+		"message": "分頁標題與網址"
+	},
+	
+	"opt_func_opt5": {
+		"message": "啟用自訂的還原快捷鍵"
+	},
+	
+	"opt_func_opt5_tooltip": {
+		"message": "快捷鍵的使用僅作用於一般網頁，而非瀏覽器設定頁、新分頁或 Chrome 線上應用程式商店的頁面。"
+	},
+	
+	"opt_func_opt6": {
+		"message": "停用按兩下開啟最後關閉頁面的功能"
+	},
+	
+	"opt_func_opt6b": {
+		"message": "停用按三下開啟最後關閉頁面的功能"
+	},
+	
+	"opt_func_opt7": {
+		"message": "即使關閉瀏覽器，依然儲存已關閉分頁"
+	},
+	
+	"opt_func_opt8": {
+		"message": "儲存已關閉分頁的最多數量："
+	},
+	
+	"opt_func_opt9": {
+		"message": "快顯視窗每頁顯示已關閉分頁的最多數量："
+	},
+	
+	"opt_func_opt10": {
+		"message": "每個分頁顯示的文字最多行數："
+	},
+	
+	"opt_resetbtn": {
+		"message": "清除已儲存分頁?"
+	},
+	
+	"opt_resetbtn_popupMsg": {
+		"message": "清除已儲存分頁?"
+	},
+	
+	"opt_blogbtn_tooltip": {
+		"message": "前往我的部落格"
+	},
+	
+	"cred_title": {
+		"message": "致謝"
+	},
+	
+	"cred_line1": {
+		"message": "致謝 <a href=\"https://chrome.google.com/webstore/detail/bcennaiejdjpomgmmohhpgnjlmpcjmbg\">Sexy Undo Close Tab</a> 的製作群。"
+	},
+	
+	"cred_line2": {
+		"message": "致謝 Undo Close 與 Sexy Undo Close Tab 分頁擴充功能的開發者。"
+	},
+	
+	"cred_line3": {
+		"message": "最後向所有開發 Undo Close 分頁擴充功能的作者致謝 :)"
+	},
+	
+	"cred_line4": {
+		"message": "特別致謝 <a href=\"https://developer.android.com/design/index.html\">Android Design</a> 設計右上角的 3 個圖示。"
+	},
+	
+	"cLog_title": {
+		"message": "更新記錄"
+	},
+	
+	"tips_title": {
+		"message": "使用說明"
+	},
+	
+	"tips_tip1": {
+		"message": "按下熱鍵還原最後關閉的分頁"
+	},
+	
+	"tips_tip1_line1": {
+		"message": "說明：確認選項已勾選，在一般網頁中按下熱鍵組合即可"
+	},
+	
+	"tips_tip1_line2": {
+		"message": "注意：無法在瀏覽器系統頁面作用"
+	},
+	
+	"tips_tip2": {
+		"message": "工具列圖示按兩下還原最後關閉的分頁"
+	},
+	
+	"tips_tip2_line1": {
+		"message": "說明：確認選項未勾選，然後在工具列圖示上按兩下"
+	},
+	
+	"tips_tip2_line2": {
+		"message": "注意：請快速按兩下不要中斷"
+	},
+	
+	"tips_tip3": {
+		"message": "快顯視窗鍵盤導覽"
+	},
+	
+	"tips_tip3_line1": {
+		"message": "說明：開啟快顯視窗後使用箭頭鍵導覽"
+	},
+	
+	"tips_tip3_line2": {
+		"message": "控制方式：←、→ = 上一頁、下一頁；↑、↓ = 捲動已關閉分頁清單；Enter = 選擇連結"
+	},
+	
+	"tips_tip4": {
+		"message": "指定開啟擴充功能的快捷鍵"
+	},
+	
+	"tips_tip4_line1": {
+		"message": "說明：前往瀏覽器的擴充功能頁面拉到最底下並按下「鍵盤快速鍵」設定"
+	},
+	
+	"perm_title": {
+		"message": "權限要求"
+	},
+	
+	"perm_text1": {
+		"message": "如同顯示 SimpleUndoClose 將存取："
+	},
+	
+	"perm_reason1a": {
+		"message": "您的歷史瀏覽記錄"
+	},
+	
+	"perm_reason1b": {
+		"message": "原因：為了能夠方便使用 Ctrl+Z 還原功能腳本"
+	},
+	
+	"perm_reason2a": {
+		"message": "您的分頁瀏覽記錄"
+	},
+	
+	"perm_reason2b": {
+		"message": "說明：需要使用 chrome.tabs API 偵測分頁狀態並取得其分頁資訊"
+	},
+	
+	"perm_text2": {
+		"message": "按下 <a href=\"http://developer.chrome.com/extensions/permission_warnings.html#warnings\">這裡</a> 您可以找到更多關於權限的問題"
+	},
+	
+	"feed_title": {
+		"message": "回饋"
+	},
+	
+	"feed_text1": {
+		"message": "如果有bug，問題或建議可以在以下網站鏈接留言。"
+	},
+	
+	"feed_text2": {
+		"message": "回饋鏈接！"
+	},
+	
+	"other_title": {
+		"message": "其它作品"
+	},
+	
+	"other_text1": {
+		"message": "歡迎到我的 DeviantArt 頁面欣賞更多作品!"
+	}
+	
+}

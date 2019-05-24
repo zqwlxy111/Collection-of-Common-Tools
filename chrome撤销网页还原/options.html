@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator" content="HTML Tidy for Windows (vers 14 February 2006), see www.w3.org">
+    <title>
+      SimpleUndoClose Options
+    </title>
+	<link href="options.css" rel="stylesheet" type="text/css" />
+	<link href="scrollbar.css" rel="stylesheet" type="text/css" />
+	<script src="common.js"></script>
+    <script src="options.js"></script>
+	<script src="il8n.js"></script>
+
+  </head>
+  <body>
+    <center>
+	
+      <div class="header">
+        <center><div class="header-inner"><img class="headIco" src="icon-128.png"><font class="headerText">SimpleUndoClose</font> <font class="headerText2"><img id="topbtn1" class="headOpIco" src="settings.png" title="Settings"><a class="headerLink" href="credits.html"><img id="topbtn2" class="headOpIco" src="log.png" title="Credits and Changelog"></a><a class="headerLink" href="about.html"><img id="topbtn3" class="headOpIco" src="about.png" title="Information" ></a></font></div></center>
+      </div>
+	  
+      <div class="boxx">
+	  
+		<div class="optionGrpTitle" i18n="opt_looks_title">
+          Looks
+        </div>
+        <div class="option">
+          <input type="checkbox" id="showBadge"> <label for="showBadge" i18n="opt_looks_opt1">Show badge with number of closed tabs on toolbar icon</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="menuTop"> <label for="menuTop" i18n="opt_looks_opt2">Search bar &amp; buttons on top</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="showSearch"> <label for="showSearch" i18n="opt_looks_opt3">Show search bar</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="showClear"> <label for="showClear" i18n="opt_looks_opt4">Show 'Clear' button</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="showTime"> <label for="showTime" i18n="opt_looks_opt5">Show time</label>
+		  <div class="suboption" id="sexyBack">
+			<input type="checkbox" id="sexy"> <label for="sexy" i18n="opt_looks_opt9">Move time to right end</label>
+		  </div>
+		</div>
+        <div class="option">
+          <input type="checkbox" id="bold"> <label for="bold" i18n="opt_looks_opt6">Bold text</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="tooltipText"> <label for="tooltipText" i18n="opt_looks_opt7">Show page title instead of URL in tooltips</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="altBut"> <label for="altBut" i18n="opt_looks_opt8">Use alternate toolbar button</label><br>
+		  <br>
+          <span i18n="opt_looks_opt10">Width of popup :</span><br>
+          <input type="range" min="300" max="800" step="10" value="" id="wPop">
+		  <n id="wPop-value" class="number"></n>
+        </div>
+		
+		<div class="optionGrpTitle" i18n="opt_func_title">
+          Function
+        </div>
+		<div id="searchOpt" class="option" title="Affects the result of the search via the search bar in the popup.">
+          <span i18n="opt_func_opt1">Look for search keyword in:</span>
+		  <div class="option"><input type="radio" id="searchIn1" name="searchIn" value="1"> <label for="searchIn1" i18n="opt_func_opt2">tab title only</label></div>
+		  <div class="option"><input type="radio" id="searchIn2" name="searchIn" value="2"> <label for="searchIn2" i18n="opt_func_opt3">tab URL only</label></div>
+		  <div class="option"><input type="radio" id="searchIn3" name="searchIn" value="3"> <label for="searchIn3" i18n="opt_func_opt4">both tab title and URL</label></div>
+        </div>
+        <div id="ctrlzOpt" class="option" title="Works only when you Ctrl+Z on a normal webpage, not a Chrome settings, New Tab page or Chrome Web Store page.">
+          <input type="checkbox" id="ctrlZ" > <label for="ctrlZ" i18n="opt_func_opt5">Enable custom undo hotkey</label> :
+			<select id="hKey1">
+				<option value="17">Ctrl</option>
+				<option value="18">Alt</option>
+				<option value="16">Shift</option>
+			</select> +
+			<select id="hKey2">
+				<option value="48">0</option>
+				<option value="49">1</option>
+				<option value="50">2</option>
+				<option value="51">3</option>
+				<option value="52">4</option>
+				<option value="53">5</option>
+				<option value="54">6</option>
+				<option value="55">7</option>
+				<option value="56">8</option>
+				<option value="57">9</option>
+				<option value="65">A</option>
+				<option value="66">B</option>
+				<option value="67">C</option>
+				<option value="68">D</option>
+				<option value="69">E</option>
+				<option value="70">F</option>
+				<option value="71">G</option>
+				<option value="72">H</option>
+				<option value="73">I</option>
+				<option value="74">J</option>
+				<option value="75">K</option>
+				<option value="76">J</option>
+				<option value="77">M</option>
+				<option value="78">N</option>
+				<option value="79">O</option>
+				<option value="80">P</option>
+				<option value="81">Q</option>
+				<option value="82">R</option>
+				<option value="83">S</option>
+				<option value="84">T</option>
+				<option value="85">U</option>
+				<option value="86">V</option>
+				<option value="87">W</option>
+				<option value="88">X</option>
+				<option value="89">Y</option>
+				<option value="90">Z</option>
+				<option value="8">Backspace</option>
+			</select>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="disableDClick"> <label for="disableDClick" i18n="opt_func_opt6" id="disableDClickLbl">Disable double click feature</label>
+        </div>
+        <div class="option">
+          <input type="checkbox" id="saveHistory"> <label for="saveHistory" i18n="opt_func_opt7">Save closed tabs even if I close Chrome</label><br>
+          <br>
+          <span i18n="opt_func_opt8">Amount of closed tabs to save :</span><br>
+          <input type="range" min="50" max="600" step="1" value="" id="numLimit">
+		  <n id="numLimit-value" class="number"></n>
+        </div>
+        <div class="option">
+          <span i18n="opt_func_opt9">Amount of closed tabs to display per page :</span><br>
+          <input type="range" min="3" max="250" step="1" value="" id="numItems">
+		  <n id="numItems-value" class="number"></n>
+        </div>
+        <div class="option">
+          <span i18n="opt_func_opt10">Amount of lines of text to display for each tab :</span><br>
+          <input type="range" min="0" max="6" step="1" value="" id="numLines">
+		  <n id="numLines-value"  class="number"></n>
+        </div>
+		<div class="spacing"></div>
+		<div class="footer">	
+		  <button id="resetButton" class="small" i18n="opt_resetbtn">Clear saved tabs?</button>
+		</div>
+      </div>
+    </center>
+    <a class="headerLink bld" href="http://blandlifedev.blogspot.sg"><img id="blogbtn" src="bldLogo.png" title="Visit blogsite"></a>
+  </body>
+</html>
