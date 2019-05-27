@@ -1,0 +1,29 @@
+感谢大神们的无私汉化
+
+******操作1
+下载软件对应的汉化包
+命名为 resources_zh_CN_<软件名>_<版本>.jar
+
+
+******操作2
+将 resources_zh_CN_*.jar 放到软件安装路径下的 lib 目录中，重启软件即可
+
+***注意是 lib 不是 bin***
+不需要重命名，不需要解压，不需要删除任何 jar 包，不会覆盖任何 jar 包
+软件的安装路径，如 C:\Program Files (x86)\WebStorm \lib
+该目录下应该有一个文件: resources_en.jar 如果没有，说明没有找对路径
+MAC 用户请在 Finder > 应用程序 中找到软件，右键 > 显示包内容
+
+
+******常见问题
+汉化不生效
+没有将汉化包放在 lib 目录（错放在 bin）
+汉化包未正常下载
+操作环境需要设为中文（zh_CN）
+
+汉字乱码/中文显示为框框
+前字体不支持中文显示，请到 File → Settings → Appearance & Behavior → Appearance →
+勾选 Override default fonts by (not recommended): 选择 Microsoft YaHei 或者其他显示为框框的中文字体。
+
+
+
